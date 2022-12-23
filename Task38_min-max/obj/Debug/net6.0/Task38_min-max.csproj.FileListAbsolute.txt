@@ -1,0 +1,15 @@
+D:\Master\1GB\4_DZ_C#4.5\Task38_min-max\obj\Debug\net6.0\Task38_min-max.csproj.AssemblyReference.cache
+D:\Master\1GB\4_DZ_C#4.5\Task38_min-max\obj\Debug\net6.0\Task38_min-max.GeneratedMSBuildEditorConfig.editorconfig
+D:\Master\1GB\4_DZ_C#4.5\Task38_min-max\obj\Debug\net6.0\Task38_min-max.AssemblyInfoInputs.cache
+D:\Master\1GB\4_DZ_C#4.5\Task38_min-max\obj\Debug\net6.0\Task38_min-max.AssemblyInfo.cs
+D:\Master\1GB\4_DZ_C#4.5\Task38_min-max\obj\Debug\net6.0\Task38_min-max.csproj.CoreCompileInputs.cache
+D:\Master\1GB\4_DZ_C#4.5\Task38_min-max\bin\Debug\net6.0\Task38_min-max.exe
+D:\Master\1GB\4_DZ_C#4.5\Task38_min-max\bin\Debug\net6.0\Task38_min-max.deps.json
+D:\Master\1GB\4_DZ_C#4.5\Task38_min-max\bin\Debug\net6.0\Task38_min-max.runtimeconfig.json
+D:\Master\1GB\4_DZ_C#4.5\Task38_min-max\bin\Debug\net6.0\Task38_min-max.dll
+D:\Master\1GB\4_DZ_C#4.5\Task38_min-max\bin\Debug\net6.0\Task38_min-max.pdb
+D:\Master\1GB\4_DZ_C#4.5\Task38_min-max\obj\Debug\net6.0\Task38_min-max.dll
+D:\Master\1GB\4_DZ_C#4.5\Task38_min-max\obj\Debug\net6.0\refint\Task38_min-max.dll
+D:\Master\1GB\4_DZ_C#4.5\Task38_min-max\obj\Debug\net6.0\Task38_min-max.pdb
+D:\Master\1GB\4_DZ_C#4.5\Task38_min-max\obj\Debug\net6.0\Task38_min-max.genruntimeconfig.cache
+D:\Master\1GB\4_DZ_C#4.5\Task38_min-max\obj\Debug\net6.0\ref\Task38_min-max.dll
