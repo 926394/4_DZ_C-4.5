@@ -1,0 +1,15 @@
+D:\Master\1GB\4_DZ_C#4.5\Task34_mass3\bin\Debug\net6.0\Task34_mass3.exe
+D:\Master\1GB\4_DZ_C#4.5\Task34_mass3\bin\Debug\net6.0\Task34_mass3.deps.json
+D:\Master\1GB\4_DZ_C#4.5\Task34_mass3\bin\Debug\net6.0\Task34_mass3.runtimeconfig.json
+D:\Master\1GB\4_DZ_C#4.5\Task34_mass3\bin\Debug\net6.0\Task34_mass3.dll
+D:\Master\1GB\4_DZ_C#4.5\Task34_mass3\bin\Debug\net6.0\Task34_mass3.pdb
+D:\Master\1GB\4_DZ_C#4.5\Task34_mass3\obj\Debug\net6.0\Task34_mass3.csproj.AssemblyReference.cache
+D:\Master\1GB\4_DZ_C#4.5\Task34_mass3\obj\Debug\net6.0\Task34_mass3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Master\1GB\4_DZ_C#4.5\Task34_mass3\obj\Debug\net6.0\Task34_mass3.AssemblyInfoInputs.cache
+D:\Master\1GB\4_DZ_C#4.5\Task34_mass3\obj\Debug\net6.0\Task34_mass3.AssemblyInfo.cs
+D:\Master\1GB\4_DZ_C#4.5\Task34_mass3\obj\Debug\net6.0\Task34_mass3.csproj.CoreCompileInputs.cache
+D:\Master\1GB\4_DZ_C#4.5\Task34_mass3\obj\Debug\net6.0\Task34_mass3.dll
+D:\Master\1GB\4_DZ_C#4.5\Task34_mass3\obj\Debug\net6.0\refint\Task34_mass3.dll
+D:\Master\1GB\4_DZ_C#4.5\Task34_mass3\obj\Debug\net6.0\Task34_mass3.pdb
+D:\Master\1GB\4_DZ_C#4.5\Task34_mass3\obj\Debug\net6.0\Task34_mass3.genruntimeconfig.cache
+D:\Master\1GB\4_DZ_C#4.5\Task34_mass3\obj\Debug\net6.0\ref\Task34_mass3.dll
