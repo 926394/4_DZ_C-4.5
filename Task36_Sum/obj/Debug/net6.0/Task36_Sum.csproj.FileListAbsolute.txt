@@ -1,0 +1,15 @@
+D:\Master\1GB\4_DZ_C#4.5\Task36_Sum\obj\Debug\net6.0\Task36_Sum.csproj.AssemblyReference.cache
+D:\Master\1GB\4_DZ_C#4.5\Task36_Sum\obj\Debug\net6.0\Task36_Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Master\1GB\4_DZ_C#4.5\Task36_Sum\obj\Debug\net6.0\Task36_Sum.AssemblyInfoInputs.cache
+D:\Master\1GB\4_DZ_C#4.5\Task36_Sum\obj\Debug\net6.0\Task36_Sum.AssemblyInfo.cs
+D:\Master\1GB\4_DZ_C#4.5\Task36_Sum\obj\Debug\net6.0\Task36_Sum.csproj.CoreCompileInputs.cache
+D:\Master\1GB\4_DZ_C#4.5\Task36_Sum\bin\Debug\net6.0\Task36_Sum.exe
+D:\Master\1GB\4_DZ_C#4.5\Task36_Sum\bin\Debug\net6.0\Task36_Sum.deps.json
+D:\Master\1GB\4_DZ_C#4.5\Task36_Sum\bin\Debug\net6.0\Task36_Sum.runtimeconfig.json
+D:\Master\1GB\4_DZ_C#4.5\Task36_Sum\bin\Debug\net6.0\Task36_Sum.dll
+D:\Master\1GB\4_DZ_C#4.5\Task36_Sum\bin\Debug\net6.0\Task36_Sum.pdb
+D:\Master\1GB\4_DZ_C#4.5\Task36_Sum\obj\Debug\net6.0\Task36_Sum.dll
+D:\Master\1GB\4_DZ_C#4.5\Task36_Sum\obj\Debug\net6.0\refint\Task36_Sum.dll
+D:\Master\1GB\4_DZ_C#4.5\Task36_Sum\obj\Debug\net6.0\Task36_Sum.pdb
+D:\Master\1GB\4_DZ_C#4.5\Task36_Sum\obj\Debug\net6.0\Task36_Sum.genruntimeconfig.cache
+D:\Master\1GB\4_DZ_C#4.5\Task36_Sum\obj\Debug\net6.0\ref\Task36_Sum.dll
